@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:3fb950&height=220&section=header&text=ThoCanh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20AI%20Builder%20%7C%20Shipping%20Products%20that%20Matter&descAlignY=52&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:3fb950&height=220&section=header&text=Pham%20Huu%20Toan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Junior%20Fullstack%20Developer%20%26%20AI%20Engineer&descAlignY=52&descSize=20&descColor=3fb950" width="100%" />
 
 <div align="center">
   <a href="https://github.com/ThoCanh"><img src="https://komarev.com/ghpvc/?username=ThoCanh&style=flat-square&color=3fb950&label=Profile+Views" /></a>
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Fullstack+Developer+%E2%80%94+Next.js+%2B+Node.js+%2B+FastAPI;Building+AI-powered+products+%F0%9F%A4%96;Shipping+real+products+to+real+users+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Junior+Fullstack+Developer+%26+AI+Engineer;Next.js+%2B+Node.js+%2B+FastAPI+%2B+NestJS;Building+AI-powered+products+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5" />
 </div>
 
 ---
@@ -18,7 +18,7 @@
 name: Pham Huu Toan
 alias: ThoCanh
 location: Go Vap, Ho Chi Minh City, Vietnam
-role: Fullstack Developer
+role: Junior Fullstack Developer & AI Engineer
 email: phamhuutoan.dev@gmail.com
 current:
   - Building multi-platform streaming service (Web + iOS + Android)
