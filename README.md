@@ -60,7 +60,7 @@ mindset: "Build fast, ship real, learn always."
 
 **Database & Cache**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=4" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase&perline=4" />
 
 </td>
 </tr>
@@ -91,6 +91,8 @@ mindset: "Build fast, ship real, learn always."
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
 
+<img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
