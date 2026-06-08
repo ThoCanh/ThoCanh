@@ -15,15 +15,12 @@ jobs:
 
     steps:
       - name: Generate snake SVG
-        uses: Platane/snk@v2
-        id: snake-gif
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake.svg
-          gif_out_path: dist/github-snake-dark.svg
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=3fb950
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=3fb950
 
       - name: Push output to output branch
         uses: peaceiris/actions-gh-pages@v3
