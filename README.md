@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:3fb950&height=220&section=header&text=Pham%20Huu%20Toan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Junior%20Fullstack%20Developer%20%26%20AI%20Engineer&descAlignY=52&descSize=20&descColor=3fb950" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:3fb950&height=220&section=header&text=Pham+Huu+Toan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Junior+Fullstack+Developer+%7C+AI+Engineer&descAlignY=52&descSize=20&descColor=3fb950" width="100%" />
 
 <div align="center">
   <a href="https://github.com/ThoCanh"><img src="https://komarev.com/ghpvc/?username=ThoCanh&style=flat-square&color=3fb950&label=Profile+Views" /></a>
